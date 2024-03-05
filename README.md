@@ -1,16 +1,21 @@
-# diva
+# Diva Guard
 
-A new Flutter project.
+ServiceNow Women CodeToWin 2k24 Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is an app designed for safety of women , but can be used by anyone willing to access its features for their safety.
 
-A few resources to get you started if this is your first Flutter project:
+## The main features of the app are :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Safest Route Identification based on crime data
+2. Share Location through phone shake
+3. Fake Calling Option
+4. Chatbot which gives you suggestions in case you are stuck in dangerous situation
+5. Voice automated features for differently abled people.
+6. Emergency calling to Police , National Emergency Helpline , Ambulance etc.
+7. Display of nearby hospitals , police stations , bus stops a/c to user's current location
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## By team : 2023_it_was(Kashish,Kriti,Harshita)
+
+
