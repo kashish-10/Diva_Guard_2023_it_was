@@ -16,6 +16,8 @@ This is an app designed for safety of women , but can be used by anyone willing 
 6. Emergency calling to Police , National Emergency Helpline , Ambulance etc.
 7. Display of nearby hospitals , police stations , bus stops a/c to user's current location
 
+## Figma Protoype : https://www.figma.com/file/AsRhgiSVoaxnxz8YNR9loJ/Diva-Guard?type=design&node-id=3%3A116&mode=design&t=gWwjgJdo6SnwIqnb-1
+
 ## By team : 2023_it_was(Kashish,Kriti,Harshita)
 
 
