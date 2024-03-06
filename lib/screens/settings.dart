@@ -46,7 +46,7 @@ class SettingsPage extends StatelessWidget {
                         ),
                         SizedBox(height: 4),
                         Text(
-                          '+91 8278681942',
+                          '+91 1234567890',
                           style: TextStyle(fontSize: 16),
                         ),
                         SizedBox(height: 4),
