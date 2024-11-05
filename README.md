@@ -1,7 +1,5 @@
 # Diva Guard
 
-ServiceNow Women CodeToWin 2k24 Project
-
 ## Getting Started
 
 This is an app designed for safety of women , but can be used by anyone willing to access its features for their safety.
